@@ -1,6 +1,6 @@
 name: 'Setup Knit'
 description: 'Install zyedidia/knit'
-  inputs:
+inputs:
   go-version:
     description: 'Go version'
     required: false
