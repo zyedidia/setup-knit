@@ -16,3 +16,4 @@ runs:
       with:
         go-version: 1.19.x
     - run: go install github.com/zyedidia/knit/cmd/knit@${{ inputs.knit-version }}
+      shell: bash
